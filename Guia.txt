@@ -1,0 +1,17 @@
+Guía de ejercicios “Arrays”
+
+1. Solicitar los primeros 20 números enteros, almacene en un array y ordene en forma
+ascendentes
+
+2. Un programa que solicite 15 números y que cuente cuantos son pares e impares.
+
+3. Diseñe un programa que solicite 10 números enteros, calcule el promedio de los
+mismos
+
+4. Solicite un valor y muestre la tabla de multiplicar de dicho número
+
+5. Solicite el peso de N personas, calcule el peso promedio de las mismas. Calcular
+cuantas personas tienen el peso menor al promedio y cuantas tienen el peso mayor al
+promedio.
+
+
