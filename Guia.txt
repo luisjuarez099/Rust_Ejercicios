@@ -14,4 +14,33 @@ mismos
 cuantas personas tienen el peso menor al promedio y cuantas tienen el peso mayor al
 promedio.
 
+Guia de Ejercicios con While.
+
+1.- Escribir un programa que solicite n cantidad de números, el programa
+termina con un cero e imprime la cantidad de números que se introducen.
+
+2.- Diseñe un programa que solicite n cantidad de calificaciones de un alumnos
+y nos señale la cantidad de calificaciones mayores o iguales a 6 y cuantas
+menores, el programa termina cuando se ingresar el valor 0.
+
+3.- Ingresa un conjunto de n números, sumar los mismo, el programa se
+finalizará cuando la suma sea mayor a 200.
+
+
+Guia de Ejercicios con For.
+1.- Realice un programa que enumere los paises de la siguiente lista
+paises = ['Canada', 'USA', 'Mexico', 'Australia']
+
+2.- Crear un bucle que cuente todos los números pares hasta el 100
+
+3.-Cree un bucle que sume los números del 100 al 200
+
+4.-Dado un número, cuente el número total de dígitos de un número
+Por ejemplo, el número es 75869, por lo que la salida debería ser 5.
+
+5.- Mostrar series de Fibonacci hasta 10 términos - Fibonacci con Python
+
+
+
+
 
